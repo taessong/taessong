@@ -4,3 +4,5 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taessong" alt="Top Langs" style="vertical-align: top;" />
 </a>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taessong)](https://github.com/anuraghazra/github-readme-stats)
